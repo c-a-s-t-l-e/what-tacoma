@@ -1,4 +1,5 @@
-# what-tacoma
+# The What Tacoma? App
+
 This is the repo for the "What Taco?" app. A Tacoma identification app.
 
 ## How The Repo is Structured
