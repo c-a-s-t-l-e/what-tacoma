@@ -1,12 +1,10 @@
 # what-tacoma
 This is the repo for the "What Taco?" app. A Tacoma identification app.
 
-## How The App is Set Up
-
-
-What Tacoma? Repository Structure
+## How The Repo is Structured
 
 This repository contains a Flutter app named "What Taco?" that helps with Tacoma identification. The project is set up as a Flutter application with Rust integration via flutter_rust_bridge.
+
 Key Components:
 
     Flutter Frontend: The main mobile application built with Flutter SDK version ^3.7.2
